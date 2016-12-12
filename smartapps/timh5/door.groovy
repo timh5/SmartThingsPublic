@@ -17,7 +17,7 @@
 
 definition(
     name: "Unlock Front Door",
-    namespace: "timh5.fiberx.unlockDoor",
+    namespace: "timh5.wearefiberx.unlockAssaDoor",
     author: "SmartThings",
     description: "Unlock your front door",
     category: "Convenience",
